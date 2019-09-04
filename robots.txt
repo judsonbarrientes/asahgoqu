@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohruphohv.chrisandemma.love/sitemap.xml
